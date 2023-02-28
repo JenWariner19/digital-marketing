@@ -16,7 +16,7 @@ N/A
 
 ## Usage
 
-You can view the completed at this link: https://jenwariner19.github.io/project-1/
+You can view the completed at this link: https://jenwariner19.github.io/digital-marketing/
 
 ![Website Screenshot](Develop/assets/images/website%20screenshot.png)
 
